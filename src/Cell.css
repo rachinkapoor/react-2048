@@ -1,0 +1,80 @@
+.cell {
+  text-align: center;
+  font-size: 55px;
+  background-color: rgba(238, 228, 218, .35);
+  font-weight: bold;
+  border-radius: 3px;
+  width: 80px;
+  height: 80px;
+  margin: 0 8px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cell:last-child {
+  margin-right: 0;
+}
+
+.cell-0 {
+  color: #17202A;
+  background-color: #17202A;
+}
+
+.cell-2 {
+  background-color: #7FB3D5;
+}
+
+.cell-4 {
+  background-color: #85C1E9;
+}
+
+.cell-8 {
+  color: #f9f6f2;
+  background-color: #76D7C4;
+}
+
+.cell-16 {
+  color: #f9f6f2;
+  background-color: #F7DC6F;
+}
+
+.cell-32 {
+  color: #f9f6f2;
+  background-color: #73C6B6;
+}
+
+.cell-64 {
+  color: #f9f6f2;
+  background-color: #58D68D;
+}
+
+.cell-128 {
+  color: #f9f6f2;
+  background-color: #52BE80;
+  font-size: 45px;
+}
+
+.cell-256 {
+  color: #f9f6f2;
+  background-color: #D98880;
+  font-size: 45px;
+}
+
+.cell-512 {
+  color: #f9f6f2;
+  background-color: #C39BD3;
+  font-size: 45px;
+}
+
+.cell-1024 {
+  color: #f9f6f2;
+  background-color: #F1948A;
+  font-size: 35px;
+}
+
+.cell-2048 {
+  color: #f9f6f2;
+  background-color: #D2B4DE;
+  font-size: 35px;
+}
